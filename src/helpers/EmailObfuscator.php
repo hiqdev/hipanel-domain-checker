@@ -3,9 +3,8 @@
 namespace hipanel\modules\domainchecker\helpers;
 
 use Yii;
-use yii\base\Object;
 
-class EmailObfuscator extends Object
+class EmailObfuscator extends \yii\base\BaseObject
 {
     /**
      * default font size.
