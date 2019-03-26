@@ -53,7 +53,7 @@
     "extra": {
         "bootstrap": "hipanel\\modules\\domainchecker\\Bootstrap",
         "config-plugin": {
-            "hisite": "src/config/hisite.php"
+            "web": "config/web.php"
         }
     },
     "minimum-stability": "dev",
